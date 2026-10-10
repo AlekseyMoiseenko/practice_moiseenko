@@ -1,0 +1,8 @@
+Заказ: Moiseenko Aleksey Dmitrievich, количество: 2, сумма за комплект: 69500.00, общая сумма: 139000.00
+  501 | Corsair CV650 x2
+  401 | NVIDIA RTX 3060 x2
+  202 | MSI B550-A Pro x2
+  601 | WD Blue 1TB x2
+  301 | Kingston Fury Beast 16GB x2
+  102 | AMD Ryzen 5 5600 x2
+----------------------------------------

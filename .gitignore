@@ -1,0 +1,7 @@
+# build artifacts
+*.o
+*.exe
+app
+
+# runtime data files (created automatically by the app on first run)
+*.bin
