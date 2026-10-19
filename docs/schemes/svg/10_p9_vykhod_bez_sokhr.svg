@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.25mm" height="225.00mm" viewBox="0 0 119.25 225.00">
+<rect width="119.25" height="225.00" fill="white"/>
+<g fill="none" stroke="black" stroke-width="0.5" stroke-linejoin="miter" stroke-linecap="butt">
+<rect x="15.25" y="4.00" width="22.50" height="15.00" rx="7.50"/>
+<polygon points="11.50,27.00 49.00,27.00 41.50,57.00 4.00,57.00"/>
+<polygon points="16.50,65.00 41.50,65.00 36.50,85.00 11.50,85.00"/>
+<polygon points="26.50,93.00 45.25,105.50 26.50,118.00 7.75,105.50"/>
+<rect x="4.00" y="130.00" width="45.00" height="30.00"/>
+<path d="M7.60,130.00V160.00M45.40,130.00V160.00"/>
+<polygon points="11.50,168.00 49.00,168.00 41.50,198.00 4.00,198.00"/>
+<rect x="15.25" y="206.00" width="22.50" height="15.00" rx="7.50"/>
+<polygon points="77.75,90.50 115.25,90.50 107.75,120.50 70.25,120.50"/>
+<rect x="77.75" y="128.50" width="30.00" height="20.00"/>
+<rect x="81.50" y="156.50" width="22.50" height="15.00" rx="7.50"/>
+<polyline points="26.50,19.00 26.50,23.50"/>
+<polygon fill="black" stroke="none" points="26.50,27.00 25.50,23.50 27.50,23.50"/>
+<polyline points="26.50,57.00 26.50,61.50"/>
+<polygon fill="black" stroke="none" points="26.50,65.00 25.50,61.50 27.50,61.50"/>
+<polyline points="26.50,85.00 26.50,89.50"/>
+<polygon fill="black" stroke="none" points="26.50,93.00 25.50,89.50 27.50,89.50"/>
+<polyline points="26.50,118.00 26.50,126.50"/>
+<polygon fill="black" stroke="none" points="26.50,130.00 25.50,126.50 27.50,126.50"/>
+<polyline points="26.50,160.00 26.50,164.50"/>
+<polygon fill="black" stroke="none" points="26.50,168.00 25.50,164.50 27.50,164.50"/>
+<polyline points="26.50,198.00 26.50,202.50"/>
+<polygon fill="black" stroke="none" points="26.50,206.00 25.50,202.50 27.50,202.50"/>
+<polyline points="45.25,105.50 70.50,105.50"/>
+<polygon fill="black" stroke="none" points="74.00,105.50 70.50,106.50 70.50,104.50"/>
+<polyline points="92.75,120.50 92.75,125.00"/>
+<polygon fill="black" stroke="none" points="92.75,128.50 91.75,125.00 93.75,125.00"/>
+<polyline points="92.75,148.50 92.75,153.00"/>
+<polygon fill="black" stroke="none" points="92.75,156.50 91.75,153.00 93.75,153.00"/>
+</g>
+<g fill="black" font-family="'DejaVu Sans Condensed', sans-serif" font-style="oblique" font-size="4.4">
+<text x="26.50" y="13.08" text-anchor="middle">Начало</text>
+<text x="26.50" y="40.78" text-anchor="middle">Вывод</text>
+<text x="26.50" y="46.38" text-anchor="middle">сообщения</text>
+<text x="26.50" y="73.78" text-anchor="middle">Ввод</text>
+<text x="26.50" y="79.38" text-anchor="middle">confirm</text>
+<text x="26.50" y="107.08" text-anchor="middle">confirm = 1?</text>
+<text x="26.50" y="140.98" text-anchor="middle">Освобождение</text>
+<text x="26.50" y="146.58" text-anchor="middle">списков</text>
+<text x="26.50" y="152.18" text-anchor="middle">clearAll()</text>
+<text x="26.50" y="181.78" text-anchor="middle">Вывод</text>
+<text x="26.50" y="187.38" text-anchor="middle">сообщения</text>
+<text x="26.50" y="215.08" text-anchor="middle">Конец</text>
+<text x="92.75" y="104.28" text-anchor="middle">Вывод</text>
+<text x="92.75" y="109.88" text-anchor="middle">сообщения</text>
+<text x="92.75" y="137.28" text-anchor="middle">Ожидание</text>
+<text x="92.75" y="142.88" text-anchor="middle">Enter</text>
+<text x="92.75" y="165.58" text-anchor="middle">Конец</text>
+<text x="28.30" y="123.20" text-anchor="start">Да</text>
+<text x="47.25" y="103.10" text-anchor="start">Нет</text>
+</g></svg>

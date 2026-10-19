@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166.50mm" height="228.00mm" viewBox="0 0 166.50 228.00">
+<rect width="166.50" height="228.00" fill="white"/>
+<g fill="none" stroke="black" stroke-width="0.5" stroke-linejoin="miter" stroke-linecap="butt">
+<rect x="39.50" y="4.00" width="45.00" height="30.00"/>
+<path d="M43.10,4.00V34.00M80.90,4.00V34.00"/>
+<polygon points="100.00,4.00 137.50,4.00 130.00,34.00 92.50,34.00"/>
+<rect x="39.50" y="39.00" width="45.00" height="30.00"/>
+<path d="M43.10,39.00V69.00M80.90,39.00V69.00"/>
+<polygon points="100.00,39.00 137.50,39.00 130.00,69.00 92.50,69.00"/>
+<rect x="39.50" y="74.00" width="45.00" height="30.00"/>
+<path d="M43.10,74.00V104.00M80.90,74.00V104.00"/>
+<polygon points="100.00,74.00 137.50,74.00 130.00,104.00 92.50,104.00"/>
+<rect x="39.50" y="109.00" width="45.00" height="30.00"/>
+<path d="M43.10,109.00V139.00M80.90,109.00V139.00"/>
+<polygon points="100.00,109.00 137.50,109.00 130.00,139.00 92.50,139.00"/>
+<polygon points="44.50,155.00 69.50,155.00 64.50,175.00 39.50,175.00"/>
+<circle cx="28.50" cy="9.00" r="4.50"/>
+<polyline points="28.50,13.50 28.50,165.00"/>
+<polyline points="28.50,19.00 36.00,19.00"/>
+<polygon fill="black" stroke="none" points="39.50,19.00 36.00,20.00 36.00,18.00"/>
+<polyline points="84.50,19.00 92.75,19.00"/>
+<polygon fill="black" stroke="none" points="96.25,19.00 92.75,20.00 92.75,18.00"/>
+<polyline points="133.75,19.00 147.50,19.00"/>
+<polyline points="28.50,54.00 36.00,54.00"/>
+<polygon fill="black" stroke="none" points="39.50,54.00 36.00,55.00 36.00,53.00"/>
+<polyline points="84.50,54.00 92.75,54.00"/>
+<polygon fill="black" stroke="none" points="96.25,54.00 92.75,55.00 92.75,53.00"/>
+<polyline points="133.75,54.00 147.50,54.00"/>
+<polyline points="28.50,89.00 36.00,89.00"/>
+<polygon fill="black" stroke="none" points="39.50,89.00 36.00,90.00 36.00,88.00"/>
+<polyline points="84.50,89.00 92.75,89.00"/>
+<polygon fill="black" stroke="none" points="96.25,89.00 92.75,90.00 92.75,88.00"/>
+<polyline points="133.75,89.00 147.50,89.00"/>
+<polyline points="28.50,124.00 36.00,124.00"/>
+<polygon fill="black" stroke="none" points="39.50,124.00 36.00,125.00 36.00,123.00"/>
+<polyline points="84.50,124.00 92.75,124.00"/>
+<polygon fill="black" stroke="none" points="96.25,124.00 92.75,125.00 92.75,123.00"/>
+<polyline points="133.75,124.00 147.50,124.00"/>
+<polyline points="28.50,147.00 147.50,147.00"/>
+<polyline points="28.50,165.00 38.50,165.00"/>
+<polygon fill="black" stroke="none" points="42.00,165.00 38.50,166.00 38.50,164.00"/>
+<polyline points="67.00,165.00 147.50,165.00"/>
+<polygon points="147.50,183.00 162.50,193.00 147.50,203.00 132.50,193.00"/>
+<circle cx="147.50" cy="9.00" r="4.50"/>
+<polyline points="147.50,13.50 147.50,179.50"/>
+<polygon fill="black" stroke="none" points="147.50,183.00 146.50,179.50 148.50,179.50"/>
+<rect x="94.50" y="183.00" width="30.00" height="20.00"/>
+<rect x="136.25" y="209.00" width="22.50" height="15.00" rx="7.50"/>
+<polyline points="132.50,193.00 128.00,193.00"/>
+<polygon fill="black" stroke="none" points="124.50,193.00 128.00,192.00 128.00,194.00"/>
+<polyline points="147.50,203.00 147.50,205.50"/>
+<polygon fill="black" stroke="none" points="147.50,209.00 146.50,205.50 148.50,205.50"/>
+<polyline points="94.50,193.00 8.50,193.00 8.50,17.00"/>
+<polygon fill="black" stroke="none" points="8.50,13.50 9.50,17.00 7.50,17.00"/>
+<circle cx="8.50" cy="9.00" r="4.50"/>
+</g>
+<g fill="black" font-family="'DejaVu Sans Condensed', sans-serif" font-style="oblique" font-size="4.4">
+<text x="62.00" y="17.78" text-anchor="middle">Комплектующие</text>
+<text x="62.00" y="23.38" text-anchor="middle">по коду типа</text>
+<text x="115.00" y="17.78" text-anchor="middle">Вывод</text>
+<text x="115.00" y="23.38" text-anchor="middle">сообщения</text>
+<text x="62.00" y="52.78" text-anchor="middle">Комплектующие</text>
+<text x="62.00" y="58.38" text-anchor="middle">по фирме</text>
+<text x="115.00" y="52.78" text-anchor="middle">Вывод</text>
+<text x="115.00" y="58.38" text-anchor="middle">сообщения</text>
+<text x="62.00" y="87.78" text-anchor="middle">Совместимость</text>
+<text x="62.00" y="93.38" text-anchor="middle">по коду 1</text>
+<text x="115.00" y="87.78" text-anchor="middle">Вывод</text>
+<text x="115.00" y="93.38" text-anchor="middle">сообщения</text>
+<text x="62.00" y="122.78" text-anchor="middle">Совместимость</text>
+<text x="62.00" y="128.38" text-anchor="middle">по коду 2</text>
+<text x="115.00" y="122.78" text-anchor="middle">Вывод</text>
+<text x="115.00" y="128.38" text-anchor="middle">сообщения</text>
+<text x="54.50" y="163.78" text-anchor="middle">Вывод</text>
+<text x="54.50" y="169.38" text-anchor="middle">ошибки</text>
+<text x="28.50" y="10.58" text-anchor="middle">А</text>
+<text x="30.50" y="17.80" text-anchor="start">6</text>
+<text x="30.50" y="52.80" text-anchor="start">7</text>
+<text x="30.50" y="87.80" text-anchor="start">8</text>
+<text x="30.50" y="122.80" text-anchor="start">9</text>
+<text x="30.50" y="145.80" text-anchor="start">0</text>
+<text x="30.50" y="163.80" text-anchor="start">иначе</text>
+<text x="147.50" y="194.58" text-anchor="middle">ch ≠ 0?</text>
+<text x="147.50" y="10.58" text-anchor="middle">Б</text>
+<text x="109.50" y="191.78" text-anchor="middle">Ожидание</text>
+<text x="109.50" y="197.38" text-anchor="middle">Enter</text>
+<text x="147.50" y="218.08" text-anchor="middle">Конец</text>
+<text x="130.50" y="190.60" text-anchor="end">Да</text>
+<text x="149.30" y="208.20" text-anchor="start">Нет</text>
+<text x="8.50" y="10.58" text-anchor="middle">В</text>
+</g></svg>

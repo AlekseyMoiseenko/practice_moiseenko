@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="163.00mm" height="120.00mm" viewBox="0 0 163.00 120.00">
+<rect width="163.00" height="120.00" fill="white"/>
+<g fill="none" stroke="black" stroke-width="0.5" stroke-linejoin="miter" stroke-linecap="butt">
+<rect x="22.50" y="12.50" width="22.50" height="15.00" rx="7.50"/>
+<polygon points="58.00,10.00 83.00,10.00 78.00,30.00 53.00,30.00"/>
+<polygon points="96.00,10.00 121.00,10.00 116.00,30.00 91.00,30.00"/>
+<polygon points="144.00,10.00 159.00,20.00 144.00,30.00 129.00,20.00"/>
+<polyline points="45.00,20.00 52.00,20.00"/>
+<polygon fill="black" stroke="none" points="55.50,20.00 52.00,21.00 52.00,19.00"/>
+<polyline points="80.50,20.00 90.00,20.00"/>
+<polygon fill="black" stroke="none" points="93.50,20.00 90.00,21.00 90.00,19.00"/>
+<polyline points="118.50,20.00 125.50,20.00"/>
+<polygon fill="black" stroke="none" points="129.00,20.00 125.50,21.00 125.50,19.00"/>
+<rect x="39.50" y="41.00" width="52.50" height="35.00"/>
+<path d="M43.70,41.00V76.00M87.80,41.00V76.00"/>
+<rect x="39.50" y="81.00" width="52.50" height="35.00"/>
+<path d="M43.70,81.00V116.00M87.80,81.00V116.00"/>
+<polyline points="144.00,30.00 144.00,36.00 28.50,36.00 28.50,103.00"/>
+<polygon fill="black" stroke="none" points="28.50,106.50 27.50,103.00 29.50,103.00"/>
+<circle cx="28.50" cy="111.00" r="4.50"/>
+<polyline points="28.50,58.50 36.00,58.50"/>
+<polygon fill="black" stroke="none" points="39.50,58.50 36.00,59.50 36.00,57.50"/>
+<polyline points="92.00,58.50 102.00,58.50"/>
+<polyline points="28.50,98.50 36.00,98.50"/>
+<polygon fill="black" stroke="none" points="39.50,98.50 36.00,99.50 36.00,97.50"/>
+<polyline points="92.00,98.50 102.00,98.50"/>
+<polyline points="102.00,58.50 102.00,103.00"/>
+<polygon fill="black" stroke="none" points="102.00,106.50 101.00,103.00 103.00,103.00"/>
+<circle cx="102.00" cy="111.00" r="4.50"/>
+<circle cx="8.50" cy="111.00" r="4.50"/>
+<polyline points="8.50,106.50 8.50,4.00 50.25,4.00 50.25,16.50"/>
+<polygon fill="black" stroke="none" points="50.25,20.00 49.25,16.50 51.25,16.50"/>
+</g>
+<g fill="black" font-family="'DejaVu Sans Condensed', sans-serif" font-style="oblique" font-size="4.4">
+<text x="33.75" y="21.58" text-anchor="middle">Начало</text>
+<text x="68.00" y="18.78" text-anchor="middle">Вывод</text>
+<text x="68.00" y="24.38" text-anchor="middle">меню</text>
+<text x="106.00" y="21.58" text-anchor="middle">Ввод ch</text>
+<text x="144.00" y="21.58" text-anchor="middle">ch</text>
+<text x="65.75" y="54.48" text-anchor="middle">Вывод списка</text>
+<text x="65.75" y="60.08" text-anchor="middle">типов</text>
+<text x="65.75" y="65.68" text-anchor="middle">printTypes()</text>
+<text x="65.75" y="94.48" text-anchor="middle">Вывод списка</text>
+<text x="65.75" y="100.08" text-anchor="middle">комплектующих</text>
+<text x="65.75" y="105.68" text-anchor="middle">printComponents()</text>
+<text x="28.50" y="112.58" text-anchor="middle">А</text>
+<text x="30.50" y="57.30" text-anchor="start">1</text>
+<text x="30.50" y="97.30" text-anchor="start">2</text>
+<text x="102.00" y="112.58" text-anchor="middle">Б</text>
+<text x="8.50" y="112.58" text-anchor="middle">В</text>
+</g></svg>

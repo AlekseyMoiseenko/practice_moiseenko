@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121.00mm" height="168.00mm" viewBox="0 0 121.00 168.00">
+<rect width="121.00" height="168.00" fill="white"/>
+<g fill="none" stroke="black" stroke-width="0.5" stroke-linejoin="miter" stroke-linecap="butt">
+<rect x="39.50" y="4.00" width="52.50" height="35.00"/>
+<path d="M43.70,4.00V39.00M87.80,4.00V39.00"/>
+<rect x="39.50" y="44.00" width="52.50" height="35.00"/>
+<path d="M43.70,44.00V79.00M87.80,44.00V79.00"/>
+<polygon points="44.50,95.00 69.50,95.00 64.50,115.00 39.50,115.00"/>
+<circle cx="28.50" cy="9.00" r="4.50"/>
+<polyline points="28.50,13.50 28.50,105.00"/>
+<polyline points="28.50,21.50 36.00,21.50"/>
+<polygon fill="black" stroke="none" points="39.50,21.50 36.00,22.50 36.00,20.50"/>
+<polyline points="92.00,21.50 102.00,21.50"/>
+<polyline points="28.50,61.50 36.00,61.50"/>
+<polygon fill="black" stroke="none" points="39.50,61.50 36.00,62.50 36.00,60.50"/>
+<polyline points="92.00,61.50 102.00,61.50"/>
+<polyline points="28.50,87.00 102.00,87.00"/>
+<polyline points="28.50,105.00 38.50,105.00"/>
+<polygon fill="black" stroke="none" points="42.00,105.00 38.50,106.00 38.50,104.00"/>
+<polyline points="67.00,105.00 102.00,105.00"/>
+<polygon points="102.00,123.00 117.00,133.00 102.00,143.00 87.00,133.00"/>
+<circle cx="102.00" cy="9.00" r="4.50"/>
+<polyline points="102.00,13.50 102.00,119.50"/>
+<polygon fill="black" stroke="none" points="102.00,123.00 101.00,119.50 103.00,119.50"/>
+<rect x="49.00" y="123.00" width="30.00" height="20.00"/>
+<rect x="90.75" y="149.00" width="22.50" height="15.00" rx="7.50"/>
+<polyline points="87.00,133.00 82.50,133.00"/>
+<polygon fill="black" stroke="none" points="79.00,133.00 82.50,132.00 82.50,134.00"/>
+<polyline points="102.00,143.00 102.00,145.50"/>
+<polygon fill="black" stroke="none" points="102.00,149.00 101.00,145.50 103.00,145.50"/>
+<polyline points="49.00,133.00 8.50,133.00 8.50,17.00"/>
+<polygon fill="black" stroke="none" points="8.50,13.50 9.50,17.00 7.50,17.00"/>
+<circle cx="8.50" cy="9.00" r="4.50"/>
+</g>
+<g fill="black" font-family="'DejaVu Sans Condensed', sans-serif" font-style="oblique" font-size="4.4">
+<text x="65.75" y="17.48" text-anchor="middle">Вывод списка</text>
+<text x="65.75" y="23.08" text-anchor="middle">совместимости</text>
+<text x="65.75" y="28.68" text-anchor="middle">printCompats()</text>
+<text x="65.75" y="60.28" text-anchor="middle">Вывод всех</text>
+<text x="65.75" y="65.88" text-anchor="middle">трёх списков</text>
+<text x="54.50" y="103.78" text-anchor="middle">Вывод</text>
+<text x="54.50" y="109.38" text-anchor="middle">ошибки</text>
+<text x="28.50" y="10.58" text-anchor="middle">А</text>
+<text x="30.50" y="20.30" text-anchor="start">3</text>
+<text x="30.50" y="60.30" text-anchor="start">4</text>
+<text x="30.50" y="85.80" text-anchor="start">0</text>
+<text x="30.50" y="103.80" text-anchor="start">иначе</text>
+<text x="102.00" y="134.58" text-anchor="middle">ch ≠ 0?</text>
+<text x="102.00" y="10.58" text-anchor="middle">Б</text>
+<text x="64.00" y="131.78" text-anchor="middle">Ожидание</text>
+<text x="64.00" y="137.38" text-anchor="middle">Enter</text>
+<text x="102.00" y="158.08" text-anchor="middle">Конец</text>
+<text x="85.00" y="130.60" text-anchor="end">Да</text>
+<text x="103.80" y="148.20" text-anchor="start">Нет</text>
+<text x="8.50" y="10.58" text-anchor="middle">В</text>
+</g></svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120.00mm" height="202.00mm" viewBox="0 0 120.00 202.00">
+<rect width="120.00" height="202.00" fill="white"/>
+<g fill="none" stroke="black" stroke-width="0.5" stroke-linejoin="miter" stroke-linecap="butt">
+<rect x="15.25" y="4.00" width="22.50" height="15.00" rx="7.50"/>
+<rect x="4.00" y="27.00" width="45.00" height="30.00"/>
+<path d="M7.60,27.00V57.00M45.40,27.00V57.00"/>
+<polygon points="26.50,65.00 49.00,80.00 26.50,95.00 4.00,80.00"/>
+<polygon points="78.50,65.00 116.00,65.00 108.50,95.00 71.00,95.00"/>
+<rect x="71.00" y="103.00" width="45.00" height="30.00"/>
+<path d="M74.60,103.00V133.00M112.40,103.00V133.00"/>
+<rect x="4.00" y="149.00" width="45.00" height="30.00"/>
+<path d="M7.60,149.00V179.00M45.40,149.00V179.00"/>
+<polyline points="26.50,19.00 26.50,23.50"/>
+<polygon fill="black" stroke="none" points="26.50,27.00 25.50,23.50 27.50,23.50"/>
+<polyline points="26.50,57.00 26.50,61.50"/>
+<polygon fill="black" stroke="none" points="26.50,65.00 25.50,61.50 27.50,61.50"/>
+<polyline points="49.00,80.00 71.25,80.00"/>
+<polygon fill="black" stroke="none" points="74.75,80.00 71.25,81.00 71.25,79.00"/>
+<polyline points="93.50,95.00 93.50,99.50"/>
+<polygon fill="black" stroke="none" points="93.50,103.00 92.50,99.50 94.50,99.50"/>
+<polyline points="93.50,133.00 93.50,141.00 30.00,141.00"/>
+<polygon fill="black" stroke="none" points="26.50,141.00 30.00,140.00 30.00,142.00"/>
+<polyline points="26.50,95.00 26.50,145.50"/>
+<polygon fill="black" stroke="none" points="26.50,149.00 25.50,145.50 27.50,145.50"/>
+<polyline points="26.50,179.00 26.50,185.50"/>
+<polygon fill="black" stroke="none" points="26.50,189.00 25.50,185.50 27.50,185.50"/>
+<circle cx="26.50" cy="193.50" r="4.50"/>
+</g>
+<g fill="black" font-family="'DejaVu Sans Condensed', sans-serif" font-style="oblique" font-size="4.4">
+<text x="26.50" y="13.08" text-anchor="middle">Начало</text>
+<text x="26.50" y="40.78" text-anchor="middle">Освобождение</text>
+<text x="26.50" y="46.38" text-anchor="middle">списков</text>
+<text x="26.50" y="78.78" text-anchor="middle">Все файлы</text>
+<text x="26.50" y="84.38" text-anchor="middle">найдены?</text>
+<text x="93.50" y="78.78" text-anchor="middle">Вывод</text>
+<text x="93.50" y="84.38" text-anchor="middle">сообщения</text>
+<text x="93.50" y="113.98" text-anchor="middle">Создание</text>
+<text x="93.50" y="119.58" text-anchor="middle">тестовых</text>
+<text x="93.50" y="125.18" text-anchor="middle">файлов</text>
+<text x="26.50" y="162.78" text-anchor="middle">Чтение</text>
+<text x="26.50" y="168.38" text-anchor="middle">типов</text>
+<text x="51.00" y="77.60" text-anchor="start">Нет</text>
+<text x="28.30" y="100.20" text-anchor="start">Да</text>
+<text x="26.50" y="195.08" text-anchor="middle">А</text>
+</g></svg>
